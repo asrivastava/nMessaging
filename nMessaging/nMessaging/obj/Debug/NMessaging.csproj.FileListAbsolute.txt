@@ -1,0 +1,8 @@
+C:\Data\My\Code\Messaging\bin\Debug\nMessaging.dll
+C:\Data\My\Code\Messaging\bin\Debug\nMessaging.pdb
+C:\Data\My\Code\Messaging\obj\Debug\nMessaging.dll
+C:\Data\My\Code\Messaging\obj\Debug\nMessaging.pdb
+C:\Data\My\Code\nMessaging\nMessaging\bin\Debug\nMessaging.dll
+C:\Data\My\Code\nMessaging\nMessaging\bin\Debug\nMessaging.pdb
+C:\Data\My\Code\nMessaging\nMessaging\obj\Debug\nMessaging.dll
+C:\Data\My\Code\nMessaging\nMessaging\obj\Debug\nMessaging.pdb
