@@ -1,6 +1,0 @@
-C:\Source\Research\GPS-Int\GPSPoc\MessageProcessor\bin\Debug\MessageProcessor.exe
-C:\Source\Research\GPS-Int\GPSPoc\MessageProcessor\bin\Debug\MessageProcessor.pdb
-C:\Source\Research\GPS-Int\GPSPoc\MessageProcessor\obj\x86\Debug\MessageProcessor.exe
-C:\Source\Research\GPS-Int\GPSPoc\MessageProcessor\obj\x86\Debug\MessageProcessor.pdb
-C:\Data\My\Code\MessageProcessor\obj\x86\Debug\MessageProcessor.exe
-C:\Data\My\Code\MessageProcessor\obj\x86\Debug\MessageProcessor.pdb
